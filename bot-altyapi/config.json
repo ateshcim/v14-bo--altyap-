@@ -1,0 +1,7 @@
+{
+  "token": "BOT_TOKEN",
+  "clientId": "BOT_CLIENT_ID",
+  "guildId": "",
+  "prefix": "!",
+  "owners": ["KENDI_ID_NIZ"]
+}
